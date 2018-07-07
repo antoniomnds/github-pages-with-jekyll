@@ -9,4 +9,4 @@ I'm glad you are here. I plan to talk about ...
   
   </details>
   <br/>
-  [Link to blogpost]({{ site.baseurl }}{% post_url 2018-06-29-my-first-post %})
+  [Link to blogpost]({{ site.baseurl }}{% /_posts/post_url 2018-06-29-my-first-post %})
