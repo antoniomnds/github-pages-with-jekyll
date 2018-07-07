@@ -9,4 +9,4 @@ I'm glad you are here. I plan to talk about ...
   
   </details>
   <br/>
-  ['[29-06-2018'] My first post]({{ site.baseurl }}{% /_posts/post_url 2018-06-29-my-first-post %})
+  [\[29-06-2018\] My first post]({{ site.baseurl }}{% /_posts/post_url 2018-06-29-my-first-post %})
